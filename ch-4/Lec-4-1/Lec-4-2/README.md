@@ -2,7 +2,7 @@
  
  <u>4.1</u>
  
-><u>Aim-1</u> :-
+><u>Aim-2</u> :-
 >====
 
 <u>***Writ a Dart Program to gt an print total thr
@@ -12,7 +12,7 @@ Map atat!p(us MapEntr! class)
 Tak low mntion attriuts for on
 mplo! id name age salar!***</u>
 
-Program file :-l4_2_2.dart
+Program file :-l4_2_1.dart
 ====
 
 # Output :-
