@@ -1,0 +1,43 @@
+import 'dart:io';
+
+class Global {
+  static String? name;
+  static String? email;
+  static String? phone;
+  static String? address1;
+  static String? address2;
+  static String? address3;
+  static File? image;
+  static String? career_Objective;
+  static String? current_Designation;
+  static String? DD;
+  static String? MM;
+  static String? YYYY;
+  static String Marital_Status = "Single";
+  static bool LEnglish = false;
+  static bool LHindi = false;
+  static bool LGujarati = false;
+  static bool c = false;
+  static bool cpp = false;
+  static bool flutter = false;
+  static String? country;
+  static List<String> technical_skills = [];
+  static List<String> interests_hobbies = [];
+  static List<String> Achievements = [];
+  static bool declaration = false;
+  static String? Course_Degree;
+  static String? School_College_lnstitute;
+  static String? School_College_lnstitute_cgpa;
+  static String? Year_Of_Pass;
+  static String? Reference_Name;
+  static String? Designation;
+  static String? Organization_lnstitute;
+  static String? project_Title;
+  static String? roles;
+  static String? technologies;
+  static String? project_Descripation;
+  static String? comp_name;
+  static String? exp_College_nstitute;
+  static String? exp_roles;
+  static bool Employed_Status = true;
+}
